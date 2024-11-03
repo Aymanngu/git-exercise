@@ -15,6 +15,7 @@ Here are 500 trivia questions for a mega quiz. Write down your answers!
 **6. Who painted the Mona Lisa?**
 
 **7. What is the smallest country in the world?**
+
 Denmark
 **8. In which country did the Olympic Games originate?**
 
