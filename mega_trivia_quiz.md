@@ -5,6 +5,7 @@ Here are 500 trivia questions for a mega quiz. Write down your answers!
 **1. What is the capital city of France?**
 
 **2. Who wrote the play 'Romeo and Juliet'?**
+Ayman
 
 **3. In which year did the Titanic sink?**
 
@@ -15,6 +16,7 @@ Here are 500 trivia questions for a mega quiz. Write down your answers!
 **6. Who painted the Mona Lisa?**
 
 **7. What is the smallest country in the world?**
+
 Denmark
 **8. In which country did the Olympic Games originate?**
 
